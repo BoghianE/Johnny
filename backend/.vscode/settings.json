@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\rober\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "python.pythonPath": "C:\\Users\\edibo\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
     "python.unitTest.unittestArgs": [
         "-v",
         "-s",
@@ -13,7 +13,7 @@
     "team.showWelcomeMessage": false,
     "editor.formatOnSave": true,
     "python.linting.pep8Enabled": true,
-    "python.linting.pylintPath": "C:\\Users\\rober\\Projects\\JohnnyCode\\backend\\env\\Scripts\\pylint",
+    "python.linting.pylintPath": "D:\\WebDev\\JohnnyCode\\Johnny\\backend\\env\\Scripts\\pylint",
     "python.linting.pylintArgs": [
         "--load-plugins",
         "pylint_django"
